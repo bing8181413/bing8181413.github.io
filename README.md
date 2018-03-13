@@ -1,4 +1,4 @@
-ng_helloword
+Hexo 
 ============
-
-使用angular 创建一个学习项目
+www.houbingbing.com
+使用 Hexo 创建的个人网页 
